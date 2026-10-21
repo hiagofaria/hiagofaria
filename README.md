@@ -10,7 +10,7 @@ Gosto de aprender na prática, explorar novas tecnologias e aprofundar meus conh
 - **Python para dados:** programação aplicada à manipulação e análise de dados.
 - **Modelagem de dados:** modelo relacional e dimensional.
 - **Data Warehouse:** tabelas fato, dimensões e esquema estrela.
-- **Computação em nuvem:** fundamentos de IaaS, PaaS e SaaS.
+- **Computação em nuvem:** conceitos e serviços de cloud computing, infraestrutura, virtualização, armazenamento, bancos de dados, computação serverless, containers, segurança e controle de acesso.
 - **Versionamento:** Git e GitHub.
 
 <p align="left">
@@ -35,6 +35,14 @@ Projeto de portfólio voltado à Engenharia de Dados, com foco na construção d
 
 ## Contato
 
-- **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/hiago-mateus-andrade-de-faria-679845428/)
-- **GitHub:** [hiagofaria](https://github.com/hiagofaria)
-- **E-mail:** [andradedefariahiagomateus@gmail.com](mailto:andradedefariahiagomateus@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/hiago-mateus-andrade-de-faria-679845428/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/hiagofaria">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:andradedefariahiagomateus@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  </a>
+</p>
