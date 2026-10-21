@@ -1,37 +1,30 @@
 # Olá! Eu sou o Hiago
 
-Estudante de Engenharia de Dados, desenvolvendo conhecimentos em SQL, modelagem de dados e Data Warehouse.
+Sou estudante de Engenharia de Dados e tenho interesse em tecnologia, bancos de dados e no desenvolvimento de soluções que transformam dados em informações úteis.
 
-Atualmente, busco uma oportunidade de estágio na área de dados, com o objetivo de aplicar meus conhecimentos, desenvolver novas habilidades e crescer profissionalmente.
+Gosto de aprender na prática, explorar novas tecnologias e aprofundar meus conhecimentos em Engenharia de Dados. Meu objetivo é evoluir continuamente, participar de projetos desafiadores e construir minha carreira na área, contribuindo com soluções que gerem valor por meio dos dados.
 
----
-
-## Tecnologias e ferramentas
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github" alt="Python, Git e GitHub" />
-</p>
+## Tecnologias e conhecimentos
 
 - **SQL:** consultas, manipulação e agregação de dados.
-- **Python:** fundamentos de programação.
+- **Python para dados:** programação aplicada à manipulação e análise de dados.
 - **Modelagem de dados:** modelo relacional e dimensional.
 - **Data Warehouse:** tabelas fato, dimensões e esquema estrela.
 - **Computação em nuvem:** fundamentos de IaaS, PaaS e SaaS.
 - **Versionamento:** Git e GitHub.
 
----
+<p align="left">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=python,git,github" alt="Python, Git e GitHub" />
+</p>
 
 ## Projeto em destaque
 
 ### LogiData_DW — Data Warehouse Comercial
 
-Projeto de portfólio desenvolvido para praticar conceitos de Engenharia de Dados, com foco na construção de um Data Warehouse utilizando SQL.
+Projeto de portfólio voltado à Engenharia de Dados, com foco na construção de um Data Warehouse utilizando SQL. O projeto contempla modelagem dimensional, esquema estrela, tabelas fato e dimensões, além de consultas analíticas voltadas à análise comercial.
 
-O projeto contempla modelagem dimensional, esquema estrela, tabelas fato e dimensões, além de consultas analíticas voltadas à análise comercial.
-
-[ Acessar repositório](https://github.com/hiagofaria/LogiData-DataWarehouse)
-
----
+[**Acessar repositório do projeto**](https://github.com/hiagofaria/LogiData-DataWarehouse)
 
 ## Estatísticas do GitHub
 
@@ -40,17 +33,8 @@ O projeto contempla modelagem dimensional, esquema estrela, tabelas fato e dimen
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagofaria&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
 </p>
 
----
-
 ## Contato
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/hiago-mateus-andrade-de-faria-679845428/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/hiagofaria">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-**E-mail:** [andradedefariahiagomateus@gmail.com](mailto:andradedefariahiagomateus@gmail.com)
+- **LinkedIn:** [Meu perfil](https://www.linkedin.com/in/hiago-mateus-andrade-de-faria-679845428/)
+- **GitHub:** [hiagofaria](https://github.com/hiagofaria)
+- **E-mail:** [andradedefariahiagomateus@gmail.com](mailto:andradedefariahiagomateus@gmail.com)
