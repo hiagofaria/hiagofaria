@@ -9,11 +9,11 @@ Atualmente, busco uma oportunidade de estágio na área de dados, com o objetivo
 ## Tecnologias e ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sqlite,git,github" alt="Python, SQLite, Git e GitHub" />
+  <img src="https://skillicons.dev/icons?i=python,git,github" alt="Python, Git e GitHub" />
 </p>
 
-- **SQL:** consultas, manipulação de dados e agregações.
-- **SQLite:** criação e estruturação de bancos de dados.
+- **SQL:** consultas, manipulação e agregação de dados.
+- **Python:** fundamentos de programação.
 - **Modelagem de dados:** modelo relacional e dimensional.
 - **Data Warehouse:** tabelas fato, dimensões e esquema estrela.
 - **Computação em nuvem:** fundamentos de IaaS, PaaS e SaaS.
@@ -25,7 +25,7 @@ Atualmente, busco uma oportunidade de estágio na área de dados, com o objetivo
 
 ### LogiData_DW — Data Warehouse Comercial
 
-Projeto de portfólio desenvolvido para praticar conceitos de Engenharia de Dados, com foco na construção de um Data Warehouse utilizando SQL e SQLite.
+Projeto de portfólio desenvolvido para praticar conceitos de Engenharia de Dados, com foco na construção de um Data Warehouse utilizando SQL.
 
 O projeto contempla modelagem dimensional, esquema estrela, tabelas fato e dimensões, além de consultas analíticas voltadas à análise comercial.
 
@@ -36,8 +36,8 @@ O projeto contempla modelagem dimensional, esquema estrela, tabelas fato e dimen
 ## Estatísticas do GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hiagofaria&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagofaria&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hiagofaria&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagofaria&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas" />
 </p>
 
 ---
@@ -51,4 +51,6 @@ O projeto contempla modelagem dimensional, esquema estrela, tabelas fato e dimen
   <a href="https://github.com/hiagofaria">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>****
+</p>
+
+**E-mail:** [andradedefariahiagomateus@gmail.com](mailto:andradedefariahiagomateus@gmail.com)
