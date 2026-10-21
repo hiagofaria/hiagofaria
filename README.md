@@ -20,7 +20,7 @@ Gosto de aprender na prática, explorar novas tecnologias e aprofundar meus conh
 
 ## Projeto em destaque
 
-### LogiData_DW — Data Warehouse Comercial
+### LogiData — Data Warehouse
 
 Projeto de portfólio voltado à Engenharia de Dados, com foco na construção de um Data Warehouse utilizando SQL. O projeto contempla modelagem dimensional, esquema estrela, tabelas fato e dimensões, além de consultas analíticas voltadas à análise comercial.
 
