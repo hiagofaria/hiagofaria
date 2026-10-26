@@ -4,14 +4,21 @@ Sou estudante de Engenharia de Dados e tenho interesse em tecnologia, bancos de 
 
 Gosto de aprender na prática, explorar novas tecnologias e aprofundar meus conhecimentos em Engenharia de Dados. Meu objetivo é evoluir continuamente, participar de projetos desafiadores e construir minha carreira na área, contribuindo com soluções que gerem valor por meio dos dados.
 
-## Tecnologias e conhecimentos
+Tecnologias e conhecimentos
 
-- **SQL:** consultas, manipulação e agregação de dados.
-- **Python para dados:** programação aplicada à manipulação e análise de dados.
-- **Modelagem de dados:** modelo relacional e dimensional.
-- **Data Warehouse:** tabelas fato, dimensões e esquema estrela.
-- **Computação em nuvem:** conceitos e serviços de cloud computing, infraestrutura, virtualização, armazenamento, bancos de dados, computação serverless, containers, segurança e controle de acesso.
-- **Versionamento:** Git e GitHub.
+SQL: consultas, manipulação e agregação de dados.
+
+Python para dados: programação aplicada à manipulação e análise de dados.
+
+Modelagem de dados: modelo relacional e dimensional.
+
+Arquitetura de Dados Moderna: conceitos e abordagens de Data Warehouse, Data Lake e Lakehouse.
+
+Data Warehouse: modelagem dimensional, tabelas fato, dimensões e esquema estrela.
+
+Computação em nuvem: conceitos e serviços de cloud computing, infraestrutura, virtualização, armazenamento, bancos de dados, computação serverless, containers, segurança e controle de acesso.
+
+Versionamento: Git e GitHub.
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
