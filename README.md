@@ -4,7 +4,7 @@ Sou estudante de Engenharia de Dados e tenho interesse em tecnologia, bancos de 
 
 Gosto de aprender na prática, explorar novas tecnologias e aprofundar meus conhecimentos em Engenharia de Dados. Meu objetivo é evoluir continuamente, participar de projetos desafiadores e construir minha carreira na área, contribuindo com soluções que gerem valor por meio dos dados.
 
-Tecnologias e conhecimentos
+## Tecnologias e conhecimentos
 
 SQL: consultas, manipulação e agregação de dados.
 
