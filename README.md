@@ -23,6 +23,12 @@ Gosto de aprender na prática, explorar novas tecnologias e aprofundar meus conh
 
 ## Projetos em destaque
 
+### Pipeline de Linguagens de Empresas — Python e API do GitHub
+
+Projeto de Engenharia de Dados que utiliza Python, a biblioteca Requests e a API do GitHub para coletar informações sobre as linguagens de programação utilizadas nos repositórios de empresas como Amazon, Netflix e Spotify. O projeto aplica autenticação, paginação, transformação e organização dos dados, com exportação dos resultados em arquivos CSV.
+
+[**Acessar repositório**](https://github.com/hiagofaria/pipeline-linguagens-empresas)
+
 ### LogiData_DW — Data Warehouse Comercial
 
 Projeto de portfólio voltado à Engenharia de Dados, com foco na construção de um Data Warehouse utilizando SQL. Contempla modelagem dimensional, esquema estrela, tabelas fato e dimensões, além de consultas analíticas voltadas à análise comercial.
@@ -34,12 +40,6 @@ Projeto de portfólio voltado à Engenharia de Dados, com foco na construção d
 Pipeline desenvolvida em Python para integrar dados provenientes de diferentes fontes e formatos, como JSON e CSV. Aplica conceitos de ETL, envolvendo leitura, padronização, combinação e exportação dos dados processados.
 
 [**Acessar repositório**](https://github.com/hiagofaria/Pipeline-de-dados)
-
-### Pipeline de Linguagens de Empresas — Python e API do GitHub
-
-Projeto de Engenharia de Dados que utiliza Python, a biblioteca Requests e a API do GitHub para coletar informações sobre as linguagens de programação utilizadas nos repositórios de empresas como Amazon, Netflix e Spotify. O projeto aplica autenticação, paginação, transformação e organização dos dados, com exportação dos resultados em arquivos CSV.
-
-[**Acessar repositório**](https://github.com/hiagofaria/pipeline-linguagens-empresas)
 
 ## Estatísticas do GitHub
 
