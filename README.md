@@ -44,8 +44,8 @@ Projeto de Engenharia de Dados que utiliza Python, a biblioteca Requests e a API
 ## Estatísticas do GitHub
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hiagofaria&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagofaria&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&hide=Jupyter%20Notebook" alt="Linguagens mais utilizadas" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=hiagofaria&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hiagofaria&layout=compact&theme=github_dark&hide_border=true&locale=pt-br&hide=Jupyter%20Notebook" alt="Linguagens mais utilizadas" />
 </p>
 
 ## Contato
